@@ -11,6 +11,8 @@
 		110B004726EB44220004EF08 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 110B004626EB44220004EF08 /* ContentView.swift */; };
 		110B004926EB44230004EF08 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 110B004826EB44230004EF08 /* Assets.xcassets */; };
 		110B004C26EB44230004EF08 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 110B004B26EB44230004EF08 /* Preview Assets.xcassets */; };
+		110B005426EB47230004EF08 /* PresentationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 110B005326EB47230004EF08 /* PresentationView.swift */; };
+		11D5A3EE26EE0C4E00C8BBF2 /* ColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D5A3ED26EE0C4E00C8BBF2 /* ColorSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		110B004826EB44230004EF08 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		110B004B26EB44230004EF08 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		110B004D26EB44230004EF08 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		110B005326EB47230004EF08 /* PresentationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresentationView.swift; sourceTree = "<group>"; };
+		11D5A3ED26EE0C4E00C8BBF2 /* ColorSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				110B004426EB44220004EF08 /* SlidersRGBSwiftUIApp.swift */,
 				110B004626EB44220004EF08 /* ContentView.swift */,
+				110B005326EB47230004EF08 /* PresentationView.swift */,
+				11D5A3ED26EE0C4E00C8BBF2 /* ColorSlider.swift */,
 				110B004826EB44230004EF08 /* Assets.xcassets */,
 				110B004D26EB44230004EF08 /* Info.plist */,
 				110B004A26EB44230004EF08 /* Preview Content */,
@@ -140,6 +146,8 @@
 			files = (
 				110B004726EB44220004EF08 /* ContentView.swift in Sources */,
 				110B004526EB44220004EF08 /* SlidersRGBSwiftUIApp.swift in Sources */,
+				11D5A3EE26EE0C4E00C8BBF2 /* ColorSlider.swift in Sources */,
+				110B005426EB47230004EF08 /* PresentationView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
